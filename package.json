@@ -1,0 +1,20 @@
+{
+  "name": "codeforces-solutions",
+  "version": "1.0.0",
+  "description": "This repository contains my solutions to various [Codeforces](https://codeforces.com/) problems.   It serves as both a personal archive of my progress and a way to keep my GitHub activity consistent while working on larger projects.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el-tecson/codeforces-solutions.git"
+  },
+  "keywords": [
+    "codeforces", "solutions"
+  ],
+  "author": "Emmanuel Leu Tecson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/el-tecson/codeforces-solutions/issues"
+  },
+  "homepage": "https://github.com/el-tecson/codeforces-solutions#readme"
+}
