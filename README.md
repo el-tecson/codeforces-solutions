@@ -8,6 +8,9 @@ It serves as both a personal archive of my progress and a way to keep my GitHub 
 - Each file is named after its problem code and title for easy reference.
 - Solutions are written in [Typescript](https://www.w3schools.com/typescript/).
 
+## Instructions
+See the [INSTRUCTIONS](INSTRUCTIONS.md)
+
 ## Goals
 - Push **70–140 solutions by December 2025**
 - Work alongside **6 real-world projects**
