@@ -6,7 +6,7 @@ It serves as both a personal archive of my progress and a way to keep my GitHub 
 ## Structure
 - Organized by **contest** or **problem rating**.
 - Each file is named after its problem code and title for easy reference.
-- Solutions are written in Javascript.
+- Solutions are written in [Typescript](https://www.w3schools.com/typescript/).
 
 ## Goals
 - Push **70–140 solutions by December 2025**
