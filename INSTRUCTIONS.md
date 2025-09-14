@@ -12,7 +12,7 @@ Each problem has its own folder organized under its rating category. For example
 ```
 
 Each folder may contain:  
-- `solution.ts` — your main solution  
+- `solution.ts` — my main solution  
 - `input.txt` — optional sample input  
 - `test.ts` — optional test file  
 
