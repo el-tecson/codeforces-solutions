@@ -9,12 +9,17 @@
     "url": "git+https://github.com/el-tecson/codeforces-solutions.git"
   },
   "keywords": [
-    "codeforces", "solutions"
+    "codeforces",
+    "solutions"
   ],
   "author": "Emmanuel Leu Tecson",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/el-tecson/codeforces-solutions/issues"
   },
-  "homepage": "https://github.com/el-tecson/codeforces-solutions#readme"
+  "homepage": "https://github.com/el-tecson/codeforces-solutions#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
 }
